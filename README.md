@@ -122,7 +122,8 @@ Program will displays a map to check possible errors in the input parameters.
  computer with 2G RAM and Windows vista
  Remember MATLAB is not the fast programming language. Be patient,
  profiles has been waiting for years to be digitized.
-
+HELP video (Frech)
+https://m.youtube.com/watch?feature=player_detailpage&v=l-MMPCXCSQ0
 
  Author: Marcel·lí Farran, ICM (CSIC) Barcelona,
  Program page: http://gma.icm.csic.es/ca/image2segy
